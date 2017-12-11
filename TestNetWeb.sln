@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNetWeb", "TestNetWeb\TestNetWeb.csproj", "{5C778E70-0A5A-443C-B309-08C2ED26152F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNetWeb.Tests", "TestNetWeb.Tests\TestNetWeb.Tests.csproj", "{3DFF4EAE-72E8-41D2-82B5-58A1B9542FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C778E70-0A5A-443C-B309-08C2ED26152F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C778E70-0A5A-443C-B309-08C2ED26152F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C778E70-0A5A-443C-B309-08C2ED26152F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C778E70-0A5A-443C-B309-08C2ED26152F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFF4EAE-72E8-41D2-82B5-58A1B9542FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFF4EAE-72E8-41D2-82B5-58A1B9542FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFF4EAE-72E8-41D2-82B5-58A1B9542FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFF4EAE-72E8-41D2-82B5-58A1B9542FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
